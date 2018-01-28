@@ -1,0 +1,7 @@
+<div class="form-design4uru-info">
+<label> Ваше имя (обязательно)</label>[text* your-name class:icons class:name] 
+<label> Ваш e-mail (обязательно)</label>[email* your-email class:icons class:email] 
+<label> Тема </label>[text your-subject class:icons class:subj] 
+<label> Сообщение </label>[textarea your-message]
+[submit "Отправить"]
+</div>

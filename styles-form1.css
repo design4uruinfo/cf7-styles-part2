@@ -1,0 +1,78 @@
+.form-design4uru-info {
+   
+    border: 2px solid rgba(34, 34, 34, 0.09019607843137255);
+    -webkit-box-shadow: 0px -1px 11px 1px rgba(0,0,0,0.05), inset -4px 4px 125px -6px rgba(237,237,237,0.2);
+    -moz-box-shadow: 0px -1px 11px 1px rgba(0,0,0,0.05), inset -4px 4px 125px -6px rgba(237,237,237,0.2);
+    box-shadow: inset 0px -1px 11px 1px rgba(0,0,0,0.05), -4px 4px 125px -6px rgba(237,237,237,0.2);
+    
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    
+    background-color: rgba(225, 194, 159, 0.06);
+    width: 500px;
+}
+
+.form-design4uru-info:hover {
+    
+    background-color: rgba(237,237,237,0.2);
+    border: 2px solid rgba(34, 34, 34, 0.2);
+}
+
+.form-design4uru-info input, .form-design4uru-info textarea {
+    
+    height: 42px;
+    width: 100%;
+    border-radius: 4px;
+    border: 2px solid rgba(169, 166, 163, 0.25);
+    
+}
+
+.form-design4uru-info textarea {
+    height: auto;
+}
+
+.form-design4uru-info textarea:hover, .form-design4uru-info textarea:focus {
+    
+    border: 2px solid #d4d2cf;
+    
+}
+
+.form-design4uru-info input:hover, .form-design4uru-info input:focus {
+    
+    border: 2px solid #d4d2cf;
+    
+}
+
+.form-design4uru-info label {
+    color: #333;
+    display: block;
+    font-weight: 400;
+    margin-bottom: 0.5em;
+/*    padding-left: 50px; */
+}
+
+
+.form-design4uru-info .sprite-profile {
+    width: 17px;
+    height: 17px;
+    background-position: -59px -5px;
+}
+
+.form-design4uru-info .name {
+    background-image: url(images/profile.png);
+}
+
+.form-design4uru-info .email {
+    background-image: url(images/mail.png);
+}
+
+.form-design4uru-info .subj {
+    background-image: url(images/mail.png);
+}
+
+.form-design4uru-info .icons {
+        background-repeat: no-repeat;
+        background-position: left 15px center;
+        padding: 10px 10px 10px 45px;
+}
